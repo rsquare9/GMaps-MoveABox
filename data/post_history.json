@@ -1,23 +1,63 @@
 {
-  "posts": [],
+  "posts": [
+    {
+      "location_slug": "moveabox-bannerghatta",
+      "post_date": "2026-03-13",
+      "day_of_week": "Friday",
+      "post_type": "how_to_checklist",
+      "post_title": "JP Nagar Moving Checklist: 8 Things to Do Before Packing Day",
+      "post_body": "Moving from JP Nagar or along Bannerghatta Road? Whether you are shifting to a new apartment near Gottigere or relocating intercity, preparation is what separates a smooth move from a chaotic one.\n\nHere is your essential pre-move checklist:\n\n1. Book your movers at least 7 days ahead. House shifting services in JP Nagar fill up fast at month-end and around the Ugadi break.\n2. Declutter first — donate or discard what you will not use. Fewer boxes means a lower quote.\n3. Sort by room — label every box with its destination room and contents.\n4. Protect fragile items with bubble wrap. Pack plates vertically, never flat.\n5. Create an open-first box with your phone charger, toiletries, key documents, and a change of clothes.\n6. Photograph all electronics before disconnecting cables. Save yourself hours of confusion at the new place.\n7. Confirm lift availability at both buildings on moving day — MoveABox coordinates this for you.\n8. Keep your Aadhaar, lease papers, and passports with you personally. Never pack them in a moving box.\n\n📦 MoveABox is your trusted packers and movers on Bannerghatta Road, serving JP Nagar, Hulimavu, Arekere, and the entire south corridor near IIM Bangalore.\n\nGet a free quote — call +91-XXXXXXXXXX or book at https://moveabox.in/book?loc=bannerghatta&utm_source=gbp",
+      "target_keywords": ["house shifting services JP Nagar", "packers and movers Bannerghatta Road"],
+      "quality_score": 44,
+      "auto_publish": true,
+      "scheduled_time": "10:00 AM IST",
+      "generated_at": "2026-03-13T01:30:00"
+    },
+    {
+      "location_slug": "moveabox-banashankari",
+      "post_date": "2026-03-13",
+      "day_of_week": "Friday",
+      "post_type": "how_to_checklist",
+      "post_title": "Banashankari Room-by-Room Packing Guide: Pack Smarter, Move Faster",
+      "post_body": "Planning a house move in Banashankari, Padmanabhanagar, or Kumaraswamy Layout? Packing smartly is half the battle. Most families underestimate how long it takes to properly pack a 2BHK. Here is a room-by-room guide from the MoveABox team.\n\nKitchen: Start with items you use least. Wrap each glass in newspaper. Pack heavy vessels at the bottom. Mark FRAGILE on any box with ceramics or crockery.\n\nBedroom: Vacuum-seal bulky linen to save box space. Keep jewellery and valuables in a bag you carry personally — never in a moving box.\n\nLiving room: Televisions pack best in their original cartons. If you do not have them, our team brings custom TV cartons for flat-screens up to 75 inches.\n\nBooks and shelves: Books are heavier than they look. Always use small boxes. Mix heavy books with lighter items so boxes stay liftable.\n\nKids room: Let children pack one small bag of their favourites. It prevents the where-is-my-toy chaos on arrival day.\n\nHome office: Label all cables with tape and a marker before dismantling. Back up important files before the move.\n\nMoveABox provides professional house shifting services in Banashankari and is your trusted packers and movers for all of south Bangalore — from Girinagar to Uttarahalli, near Turahalli Forest and Nayandahalli Metro.\n\n🏠 Get a free quote — call +91-XXXXXXXXXX or book at https://moveabox.in/book?loc=banashankari&utm_source=gbp",
+      "target_keywords": ["house shifting services Banashankari", "packers and movers Banashankari"],
+      "quality_score": 44,
+      "auto_publish": true,
+      "scheduled_time": "10:15 AM IST",
+      "generated_at": "2026-03-13T01:30:00"
+    },
+    {
+      "location_slug": "moveabox-koramangala",
+      "post_date": "2026-03-13",
+      "day_of_week": "Friday",
+      "post_type": "how_to_checklist",
+      "post_title": "Koramangala Office Relocation Checklist: Move Your Team Without Losing a Workday",
+      "post_body": "Office relocation in Koramangala does not have to mean downtime. Whether you are moving from a co-working space in 4th Block to a bigger office in BTM Layout, or shifting your entire HSR Layout team across Bangalore, the right checklist keeps the chaos out.\n\nHere is how to relocate your office without losing a single workday:\n\n1. Audit before you pack. Photograph every workstation, server rack, and storage cabinet before dismantling. This is your operational insurance policy.\n2. Create a numbered floor plan for the new space. Assign stickers to each desk, chair, and piece of equipment. Our crew delivers each item to the exact spot.\n3. Move IT infrastructure last. Keep servers and network equipment running as long as possible. Plan a clean cutover window.\n4. Notify all vendors, clients, and courier services of your new address at least two weeks before moving day.\n5. Move in phases if possible — keep one functional zone running while the other is being packed and transported.\n6. Schedule on a weekend or after hours. MoveABox offers flexible time slots so your entire team is back at full capacity by Monday morning.\n\nOur packers and movers in Koramangala have handled everything from 10-desk startups near Forum Mall to 200-seat teams relocating from the National Games Village area. Office relocation is our specialty.\n\n📍 Find us on Google Maps: https://maps.app.goo.gl/Ry7wJSGhYWG5GLF67\n\nGet a free quote — call +91-XXXXXXXXXX or book at https://moveabox.in/book?loc=koramangala&utm_source=gbp",
+      "target_keywords": ["office relocation Koramangala", "packers and movers Koramangala"],
+      "quality_score": 44,
+      "auto_publish": true,
+      "scheduled_time": "10:30 AM IST",
+      "generated_at": "2026-03-13T01:30:00"
+    }
+  ],
   "stats": {
-    "total_posts": 0,
+    "total_posts": 3,
     "by_location": {
-      "moveabox-bannerghatta": 0,
-      "moveabox-banashankari": 0,
-      "moveabox-koramangala": 0
+      "moveabox-bannerghatta": 1,
+      "moveabox-banashankari": 1,
+      "moveabox-koramangala": 1
     },
     "by_type": {
       "service_spotlight": 0,
       "local_area_guide": 0,
       "customer_testimonial": 0,
       "offer_promotion": 0,
-      "how_to_checklist": 0,
+      "how_to_checklist": 3,
       "behind_the_scenes": 0,
       "faq_myth_buster": 0
     },
-    "avg_quality_score": 0,
-    "auto_published": 0,
+    "avg_quality_score": 44,
+    "auto_published": 3,
     "human_reviewed": 0
   },
   "dedup_window_days": 90,

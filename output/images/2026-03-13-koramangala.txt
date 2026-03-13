@@ -1,0 +1,11 @@
+MoveABox Image Prompt — Koramangala
+Date: 2026-03-13
+Post Type: How-To/Checklist
+
+PROMPT:
+Professional wide-angle documentary-style photo inside a modern open-plan Koramangala startup office being professionally relocated during early morning. Two MoveABox team members in crisp navy blue uniforms with orange branding are carefully wrapping computer monitors and laptops with bubble wrap. One clearly labeled box has a large printed numbered sticker (e.g. "DESK 04 → NEW OFFICE ROW B") visible. Large floor-to-ceiling glass windows in the background reveal a soft Bangalore urban skyline in morning light. Startup-style whiteboards with sticky notes and a company logo wall visible in background (blurred, non-specific). Clean, efficient, professional, trust-building atmosphere. Realistic photo-documentary style. Natural morning light + office overhead lighting. No text overlays.
+
+USAGE: GBP post thumbnail, WhatsApp digest
+ASPECT RATIO: 4:3 (landscape preferred for GBP)
+STYLE: Photorealistic, corporate editorial
+COLORS: MoveABox brand — navy blue (#1A2A6C), orange (#FF6B35), modern office neutrals

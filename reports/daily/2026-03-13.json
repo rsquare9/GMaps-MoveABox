@@ -1,0 +1,52 @@
+{
+  "date": "2026-03-13",
+  "started_at": "2026-03-13T01:30:00",
+  "completed_at": "2026-03-13T01:33:00",
+  "pipeline_version": "2.0",
+  "insights": [],
+  "posts": [
+    {
+      "location_slug": "moveabox-bannerghatta",
+      "post_title": "JP Nagar Moving Checklist: 8 Things to Do Before Packing Day",
+      "post_type": "how_to_checklist",
+      "quality_score": 44,
+      "auto_publish": true,
+      "requires_human_review": false,
+      "scheduled_time": "10:00 AM IST",
+      "file": "output/posts/2026-03-13-bannerghatta.json"
+    },
+    {
+      "location_slug": "moveabox-banashankari",
+      "post_title": "Banashankari Room-by-Room Packing Guide: Pack Smarter, Move Faster",
+      "post_type": "how_to_checklist",
+      "quality_score": 44,
+      "auto_publish": true,
+      "requires_human_review": false,
+      "scheduled_time": "10:15 AM IST",
+      "file": "output/posts/2026-03-13-banashankari.json"
+    },
+    {
+      "location_slug": "moveabox-koramangala",
+      "post_title": "Koramangala Office Relocation Checklist: Move Your Team Without Losing a Workday",
+      "post_type": "how_to_checklist",
+      "quality_score": 44,
+      "auto_publish": true,
+      "requires_human_review": false,
+      "scheduled_time": "10:30 AM IST",
+      "file": "output/posts/2026-03-13-koramangala.json"
+    }
+  ],
+  "reviews": {
+    "total_new": 0,
+    "responded": 0,
+    "flagged_urgent": 0,
+    "flagged_suspicious": 0,
+    "status": "api_not_configured"
+  },
+  "competitor_alerts": [],
+  "anomalies": [],
+  "errors": [
+    "Insights fetch failed: GBP API not configured",
+    "Review check failed: GBP API not configured"
+  ]
+}

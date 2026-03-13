@@ -1,0 +1,42 @@
+{
+  "locations": {
+    "moveabox-bannerghatta": [],
+    "moveabox-banashankari": [],
+    "moveabox-koramangala": []
+  },
+  "last_discovery": null,
+  "next_discovery_due": null,
+  "schema_version": "2.0",
+  "schema_fields": {
+    "competitor_id": "string — unique ID e.g. comp_bng_001",
+    "business_name": "string",
+    "gbp_url": "string — Google Maps URL",
+    "location_zone": "string — location slug",
+    "distance_km": "number",
+    "primary_category": "string",
+    "secondary_categories": "array of strings",
+    "review_count": "number — total reviews",
+    "average_rating": "number — 1.0 to 5.0",
+    "review_velocity_30d": "number — new reviews in last 30 days",
+    "response_rate_pct": "number — 0 to 100",
+    "avg_response_time_hours": "number",
+    "total_photos": "number",
+    "photos_last_30d": "number",
+    "post_count_last_30d": "number",
+    "post_types": "array — offer/update/event/standard",
+    "qa_count": "number",
+    "services_listed": "number",
+    "has_booking_link": "boolean",
+    "has_messaging": "boolean",
+    "website_url": "string",
+    "citation_count_estimate": "number",
+    "local_pack_appearances": "object — keyword to boolean",
+    "strengths": "array of strings",
+    "weaknesses": "array of strings",
+    "threat_level": "string — HIGH/MEDIUM/LOW",
+    "recent_posts": "array of post objects",
+    "last_updated": "ISO date string"
+  },
+  "alert_history": [],
+  "notes": "Run /competitor-audit to populate with actual competitor data. First discovery run required."
+}

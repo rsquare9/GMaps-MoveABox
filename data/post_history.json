@@ -1,0 +1,25 @@
+{
+  "posts": [],
+  "stats": {
+    "total_posts": 0,
+    "by_location": {
+      "moveabox-bannerghatta": 0,
+      "moveabox-banashankari": 0,
+      "moveabox-koramangala": 0
+    },
+    "by_type": {
+      "service_spotlight": 0,
+      "local_area_guide": 0,
+      "customer_testimonial": 0,
+      "offer_promotion": 0,
+      "how_to_checklist": 0,
+      "behind_the_scenes": 0,
+      "faq_myth_buster": 0
+    },
+    "avg_quality_score": 0,
+    "auto_published": 0,
+    "human_reviewed": 0
+  },
+  "dedup_window_days": 90,
+  "schema_version": "2.0"
+}

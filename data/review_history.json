@@ -1,0 +1,51 @@
+{
+  "reviews": {
+    "moveabox-bannerghatta": [],
+    "moveabox-banashankari": [],
+    "moveabox-koramangala": []
+  },
+  "metrics": {
+    "moveabox-bannerghatta": {
+      "total_reviews": 0,
+      "average_rating": 0,
+      "response_rate": 0,
+      "velocity_30d": 0,
+      "updated_at": null
+    },
+    "moveabox-banashankari": {
+      "total_reviews": 0,
+      "average_rating": 0,
+      "response_rate": 0,
+      "velocity_30d": 0,
+      "updated_at": null
+    },
+    "moveabox-koramangala": {
+      "total_reviews": 0,
+      "average_rating": 0,
+      "response_rate": 0,
+      "velocity_30d": 0,
+      "updated_at": null
+    }
+  },
+  "last_template_index": 0,
+  "escalation_log": [],
+  "dispute_flags": [],
+  "review_targets": {
+    "moveabox-bannerghatta": {
+      "monthly_target": 10,
+      "top_competitor_count": 0,
+      "set_at": null
+    },
+    "moveabox-banashankari": {
+      "monthly_target": 10,
+      "top_competitor_count": 0,
+      "set_at": null
+    },
+    "moveabox-koramangala": {
+      "monthly_target": 10,
+      "top_competitor_count": 0,
+      "set_at": null
+    }
+  },
+  "schema_version": "2.0"
+}

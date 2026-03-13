@@ -1,0 +1,58 @@
+{
+  "snapshots": {},
+  "daily_snapshots": {},
+  "mbs_baseline": {
+    "moveabox-bannerghatta": {
+      "review_volume": 0,
+      "review_quality": 0,
+      "review_velocity": 0,
+      "response_rate": 0,
+      "content_freshness": 0,
+      "visual_richness": 0,
+      "profile_depth": 0,
+      "qa_coverage": 0,
+      "citation_strength": 0,
+      "local_pack_rank": 10,
+      "mbs": 0,
+      "set_at": null
+    },
+    "moveabox-banashankari": {
+      "review_volume": 0,
+      "review_quality": 0,
+      "review_velocity": 0,
+      "response_rate": 0,
+      "content_freshness": 0,
+      "visual_richness": 0,
+      "profile_depth": 0,
+      "qa_coverage": 0,
+      "citation_strength": 0,
+      "local_pack_rank": 10,
+      "mbs": 0,
+      "set_at": null
+    },
+    "moveabox-koramangala": {
+      "review_volume": 0,
+      "review_quality": 0,
+      "review_velocity": 0,
+      "response_rate": 0,
+      "content_freshness": 0,
+      "visual_richness": 0,
+      "profile_depth": 0,
+      "qa_coverage": 0,
+      "citation_strength": 0,
+      "local_pack_rank": 10,
+      "mbs": 0,
+      "set_at": null
+    }
+  },
+  "targets": {
+    "mbs_target_3months": 65,
+    "mbs_target_6months": 75,
+    "mbs_target_12months": 85,
+    "review_velocity_target_monthly": 10,
+    "response_rate_target": 90,
+    "posting_frequency_target_monthly": 28
+  },
+  "schema_version": "2.0",
+  "notes": "Run /competitor-audit to populate baseline. Weekly snapshots appended automatically."
+}

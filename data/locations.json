@@ -1,0 +1,167 @@
+{
+  "locations": [
+    {
+      "slug": "moveabox-bannerghatta",
+      "display_name": "MoveABox - Bannerghatta Road",
+      "maps_url": "https://maps.app.goo.gl/b6FU5TNh5kecUg9c8",
+      "zone": "South Bangalore",
+      "neighborhoods": [
+        "Bannerghatta Road",
+        "JP Nagar 1st Phase",
+        "JP Nagar 2nd Phase",
+        "JP Nagar 3rd Phase",
+        "JP Nagar 4th Phase",
+        "JP Nagar 5th Phase",
+        "JP Nagar 6th Phase",
+        "JP Nagar 7th Phase",
+        "JP Nagar 8th Phase",
+        "Arekere",
+        "Gottigere",
+        "Hulimavu",
+        "Begur",
+        "Bommanahalli",
+        "Sarakki",
+        "Jayanagar 4th Block"
+      ],
+      "landmarks": [
+        "Meenakshi Temple",
+        "Big Bazaar JP Nagar",
+        "Bannerghatta National Park",
+        "Gottigere Metro Station",
+        "Infosys Bannerghatta Campus",
+        "IIM Bangalore"
+      ],
+      "demographic": "IT professionals, families, students. High apartment density. Frequent inter-city relocations.",
+      "competitor_density": "HIGH",
+      "coordinates": {
+        "lat": 12.8745,
+        "lng": 77.5970
+      },
+      "phone": "",
+      "email": "",
+      "website_utm": "https://moveabox.in/book?loc=bannerghatta&utm_source=gbp",
+      "review_link": "https://g.page/r/BANNERGHATTA_REVIEW_ID/review",
+      "gbp_account_id": "",
+      "manager_name": ""
+    },
+    {
+      "slug": "moveabox-banashankari",
+      "display_name": "MoveABox - Banashankari",
+      "maps_url": "https://maps.app.goo.gl/N9JCzMd98UTrTPBE7",
+      "zone": "Southwest Bangalore",
+      "neighborhoods": [
+        "Banashankari Stage 1",
+        "Banashankari Stage 2",
+        "Banashankari Stage 3",
+        "Padmanabhanagar",
+        "Kumaraswamy Layout",
+        "Uttarahalli",
+        "Kanakapura Road",
+        "RR Nagar",
+        "Girinagar",
+        "Kathriguppe",
+        "Basavanagudi"
+      ],
+      "landmarks": [
+        "Banashankari Temple",
+        "ISKCON Mall",
+        "Turahalli Forest",
+        "Nayandahalli Metro",
+        "BMS College",
+        "National Military Memorial"
+      ],
+      "demographic": "Established residential area. Multi-generational families. Government employees. Price-sensitive. Value trust and reliability.",
+      "competitor_density": "MEDIUM",
+      "coordinates": {
+        "lat": 12.9256,
+        "lng": 77.5564
+      },
+      "phone": "",
+      "email": "",
+      "website_utm": "https://moveabox.in/book?loc=banashankari&utm_source=gbp",
+      "review_link": "https://g.page/r/BANASHANKARI_REVIEW_ID/review",
+      "gbp_account_id": "",
+      "manager_name": ""
+    },
+    {
+      "slug": "moveabox-koramangala",
+      "display_name": "MoveABox - Koramangala",
+      "maps_url": "https://maps.app.goo.gl/Ry7wJSGhYWG5GLF67",
+      "zone": "Central-East Bangalore",
+      "neighborhoods": [
+        "Koramangala 1st Block",
+        "Koramangala 2nd Block",
+        "Koramangala 3rd Block",
+        "Koramangala 4th Block",
+        "Koramangala 5th Block",
+        "Koramangala 6th Block",
+        "Koramangala 7th Block",
+        "Koramangala 8th Block",
+        "HSR Layout Sector 1",
+        "HSR Layout Sector 2",
+        "HSR Layout Sector 3",
+        "BTM Layout",
+        "Madiwala",
+        "Ejipura",
+        "Indiranagar",
+        "Adugodi",
+        "Domlur"
+      ],
+      "landmarks": [
+        "Forum Mall Koramangala",
+        "National Games Village",
+        "St. John's Hospital",
+        "Sony World Signal",
+        "Jyoti Nivas College",
+        "BDA Complex"
+      ],
+      "demographic": "Startup hub. Young professionals 22-35. High digital literacy. Expect fast response, online booking, premium service.",
+      "competitor_density": "HIGH",
+      "coordinates": {
+        "lat": 12.9352,
+        "lng": 77.6245
+      },
+      "phone": "",
+      "email": "",
+      "website_utm": "https://moveabox.in/book?loc=koramangala&utm_source=gbp",
+      "review_link": "https://g.page/r/KORAMANGALA_REVIEW_ID/review",
+      "gbp_account_id": "",
+      "manager_name": ""
+    }
+  ],
+  "services": {
+    "packers_and_movers": {
+      "name": "Packers and Movers",
+      "subtypes": [
+        "Local home shifting (1BHK, 2BHK, 3BHK)",
+        "Intercity relocation",
+        "Office/commercial relocation",
+        "Vehicle transportation (bike and car carriers)",
+        "Specialty items (antiques, piano, gym equipment)"
+      ]
+    },
+    "courier_services": {
+      "name": "Courier Services",
+      "subtypes": [
+        "Same-day delivery within Bangalore",
+        "Next-day delivery to Karnataka cities",
+        "Express courier to all Indian metros (2-3 days)",
+        "Document courier",
+        "Parcel courier",
+        "Bulk courier",
+        "Cash-on-delivery and prepaid"
+      ]
+    },
+    "storage_solutions": {
+      "name": "Storage Solutions",
+      "subtypes": [
+        "Short-term storage (daily, weekly, monthly)",
+        "Long-term warehousing (3-12 month contracts)",
+        "Climate-controlled storage",
+        "Pickup and delivery from/to facility",
+        "Inventory management and access scheduling"
+      ]
+    }
+  },
+  "last_updated": "2026-03-13"
+}

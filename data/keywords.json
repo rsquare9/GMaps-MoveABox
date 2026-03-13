@@ -1,0 +1,140 @@
+{
+  "tier1": {
+    "description": "High-intent transactional — use in EVERY post",
+    "keywords": [
+      "packers and movers near [neighborhood]",
+      "best packers and movers in [location]",
+      "affordable movers [area] Bangalore",
+      "house shifting services [neighborhood]",
+      "office relocation [location]",
+      "courier service near me [area]",
+      "same day courier [location]",
+      "storage facility [neighborhood] Bangalore",
+      "movers and packers [area] price list",
+      "home shifting charges [neighborhood]",
+      "packers and movers Bannerghatta Road",
+      "packers and movers Banashankari",
+      "packers and movers Koramangala",
+      "packers and movers JP Nagar",
+      "packers and movers HSR Layout",
+      "packers and movers BTM Layout",
+      "house shifting JP Nagar",
+      "house shifting Koramangala",
+      "house shifting Banashankari",
+      "movers Bangalore"
+    ]
+  },
+  "tier2": {
+    "description": "Informational/comparison — use 2-3 times per week",
+    "keywords": [
+      "how to pack for moving in Bangalore",
+      "moving checklist Bangalore monsoon",
+      "[neighborhood] to [city] transport cost",
+      "warehouse for rent [area] Bangalore",
+      "best time to move house in Bangalore",
+      "packers and movers reviews [area]",
+      "how much do movers charge in Bangalore",
+      "packers movers Bangalore charges",
+      "moving cost calculator Bangalore",
+      "safe packing tips for moving",
+      "how to choose packers movers Bangalore",
+      "verified packers movers Bangalore",
+      "packers movers with insurance Bangalore"
+    ]
+  },
+  "tier3": {
+    "description": "Seasonal/event-based — deploy during specific windows only",
+    "keywords": {
+      "monsoon": [
+        "Bangalore monsoon moving tips",
+        "waterproof packing monsoon Bangalore",
+        "monsoon relocation Bangalore",
+        "safe moving during rain Bangalore"
+      ],
+      "festival": [
+        "Ugadi relocation offers Bangalore",
+        "Diwali home shifting Bangalore",
+        "festival moving deals Bangalore",
+        "auspicious dates for moving Bangalore"
+      ],
+      "it_season": [
+        "IT company office shifting Bangalore",
+        "startup office relocation Koramangala",
+        "corporate relocation Bangalore Q1",
+        "tech office moving Bangalore"
+      ],
+      "student": [
+        "college student storage Bangalore",
+        "PG shifting Bangalore",
+        "student relocation Bangalore May June",
+        "hostel to apartment shifting Bangalore"
+      ],
+      "month_end": [
+        "end of lease moving [neighborhood]",
+        "last minute movers Bangalore",
+        "urgent shifting Bangalore",
+        "same day packers movers Bangalore"
+      ],
+      "new_year": [
+        "new year home shifting offers Bangalore",
+        "January relocation deals Bangalore",
+        "fresh start moving Bangalore"
+      ]
+    }
+  },
+  "tier4": {
+    "description": "Competitor-derived keywords — auto-expanded weekly",
+    "keywords": [],
+    "last_expanded": null,
+    "expansion_target": "5-10 new keywords per location per month"
+  },
+  "location_specific": {
+    "moveabox-bannerghatta": {
+      "primary": [
+        "packers and movers Bannerghatta Road",
+        "house shifting JP Nagar",
+        "movers Gottigere",
+        "relocation Hulimavu",
+        "storage JP Nagar Bangalore"
+      ],
+      "secondary": [
+        "Bannerghatta Road to Whitefield movers",
+        "JP Nagar apartment shifting",
+        "Begur relocation service",
+        "Bommanahalli packers"
+      ]
+    },
+    "moveabox-banashankari": {
+      "primary": [
+        "packers and movers Banashankari",
+        "house shifting Kumaraswamy Layout",
+        "movers Padmanabhanagar",
+        "relocation RR Nagar",
+        "storage Banashankari Bangalore"
+      ],
+      "secondary": [
+        "Banashankari to Whitefield movers",
+        "Uttarahalli shifting service",
+        "Kanakapura Road relocation",
+        "Girinagar packers movers"
+      ]
+    },
+    "moveabox-koramangala": {
+      "primary": [
+        "packers and movers Koramangala",
+        "house shifting HSR Layout",
+        "movers BTM Layout",
+        "relocation Madiwala",
+        "storage Koramangala Bangalore"
+      ],
+      "secondary": [
+        "Koramangala to Electronic City movers",
+        "HSR Layout apartment shifting",
+        "startup office relocation Koramangala",
+        "Ejipura packers movers"
+      ]
+    }
+  },
+  "last_updated": "2026-03-13",
+  "version": "2.0"
+}

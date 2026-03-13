@@ -1,0 +1,64 @@
+# MoveABox GBP Agent — Cron Scheduler Configuration
+# All times in UTC (IST = UTC + 5:30)
+
+schedules:
+  # Daily pipeline — 07:00 IST = 01:30 UTC
+  daily_run:
+    schedule: "30 1 * * *"
+    command: "cd /path/to/moveabox-gbp-agent && claude -p /daily-run --allowedTools bash,file,web"
+    log: "logs/daily.log"
+    description: "Full daily pipeline: insights, posts, reviews, digest"
+
+  # Review monitor — 4x daily: 08:00, 12:00, 17:00, 21:00 IST
+  review_respond_morning:
+    schedule: "30 2 * * *"
+    command: "cd /path/to/moveabox-gbp-agent && claude -p /review-respond --allowedTools bash,file,web"
+    log: "logs/reviews.log"
+    description: "Morning review check 08:00 IST"
+
+  review_respond_midday:
+    schedule: "30 6 * * *"
+    command: "cd /path/to/moveabox-gbp-agent && claude -p /review-respond --allowedTools bash,file,web"
+    log: "logs/reviews.log"
+    description: "Midday review check 12:00 IST"
+
+  review_respond_evening:
+    schedule: "30 11 * * *"
+    command: "cd /path/to/moveabox-gbp-agent && claude -p /review-respond --allowedTools bash,file,web"
+    log: "logs/reviews.log"
+    description: "Evening review check 17:00 IST"
+
+  review_respond_night:
+    schedule: "30 15 * * *"
+    command: "cd /path/to/moveabox-gbp-agent && claude -p /review-respond --allowedTools bash,file,web"
+    log: "logs/reviews.log"
+    description: "Night review check 21:00 IST"
+
+  # Weekly competitor audit — Monday 06:00 IST = Sunday 00:30 UTC
+  competitor_audit:
+    schedule: "30 0 * * 1"
+    command: "cd /path/to/moveabox-gbp-agent && claude -p /competitor-audit --allowedTools bash,file,web"
+    log: "logs/competitor.log"
+    description: "Deep competitor scrape and benchmark scoring"
+
+  # Weekly report — Friday 18:00 IST = Friday 12:30 UTC
+  weekly_report:
+    schedule: "30 12 * * 5"
+    command: "cd /path/to/moveabox-gbp-agent && claude -p /weekly-report --allowedTools bash,file,web"
+    log: "logs/weekly.log"
+    description: "Full weekly performance report with competitor benchmarks"
+
+# =============================================================================
+# Crontab Installation Instructions
+# =============================================================================
+# Run: crontab -e
+# Then add the following lines (replace /path/to/moveabox-gbp-agent):
+#
+# # MoveABox GBP Agent
+# 30 1 * * * cd /path/to/moveabox-gbp-agent && claude -p /daily-run --allowedTools bash,file,web >> logs/daily.log 2>&1
+# 30 2 * * * cd /path/to/moveabox-gbp-agent && claude -p /review-respond --allowedTools bash,file,web >> logs/reviews.log 2>&1
+# 30 6 * * * cd /path/to/moveabox-gbp-agent && claude -p /review-respond --allowedTools bash,file,web >> logs/reviews.log 2>&1
+# 30 11 * * * cd /path/to/moveabox-gbp-agent && claude -p /review-respond --allowedTools bash,file,web >> logs/reviews.log 2>&1
+# 30 15 * * * cd /path/to/moveabox-gbp-agent && claude -p /review-respond --allowedTools bash,file,web >> logs/reviews.log 2>&1
+# 30 0 * * 1 cd /path/to/moveabox-gbp-agent && claude -p /competitor-audit --allowedTools bash,file,web >> logs/competitor.log 2>&1
+# 30 12 * * 5 cd /path/to/moveabox-gbp-agent && claude -p /weekly-report --allowedTools bash,file,web >> logs/weekly.log 2>&1

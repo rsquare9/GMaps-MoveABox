@@ -1,0 +1,27 @@
+{
+  "projectName": "MoveABox GBP AI Agent",
+  "version": "2.0",
+  "description": "Google Business Profile autonomous optimization agent for MoveABox.in",
+  "allowedTools": ["bash", "file", "web"],
+  "model": "claude-sonnet-4-6",
+  "locations": [
+    "moveabox-bannerghatta",
+    "moveabox-banashankari",
+    "moveabox-koramangala"
+  ],
+  "schedule": {
+    "dailyRun": "07:00 IST",
+    "competitorAudit": "Monday 06:00 IST",
+    "weeklyReport": "Friday 18:00 IST",
+    "reviewRespond": "every 6 hours"
+  },
+  "qualityGate": {
+    "minScore": 35,
+    "reviewThreshold": 39,
+    "autoPublishThreshold": 40
+  },
+  "notifications": {
+    "slack": true,
+    "whatsapp": true
+  }
+}
